@@ -60,7 +60,7 @@ export function About() {
                         <div className='flex gap-4'>
                             <a 
                                 href="#"
-                                className='bg-[#e84c3d] text-white flex items-center justif-center w-fit gap-2 px-4 py-2 rounded-md hover:scale-105'
+                                className='bg-[#e84c3d] text-white flex items-center justif-center w-fit gap-2 px-4 py-2 rounded-md hover:scale-105 duration-300'
                             >
                                 <WhatsappLogoIcon className='w-7 h-7 text-white'/>
                                 Contato via WhatsApp
@@ -68,7 +68,7 @@ export function About() {
 
                             <a 
                                 href="#"
-                                className='bg-[#ebe3d8] text-black flex items-center justif-center w-fit gap-2 px-4 py-2 rounded-md hover:scale-105'
+                                className='bg-[#ebe3d8] text-black flex items-center justif-center w-fit gap-2 px-4 py-2 rounded-md hover:scale-105 duration-300'
                             >
                                 <MapPinIcon className='w-7 h-7 text-block'/>
                                 endereço da loja
